@@ -23,6 +23,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://www.w3schools.com/php/" target="_blank"> <img src="https://img.icons8.com/ios-filled/344/php-logo.png"/> </a>
 
 </p>
 
@@ -62,4 +63,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=azZ-69">
 </a>
-<a href="https://github.com/azZ-69?tab=followers"><img src="https://img.shields.io/github/followers/azZ-69?label=Followers&style=social" alt="GitHub Badge"></a>
+<img src="https://img.shields.io/github/followers/azZ-69?label=Followers&style=social" alt="GitHub Badge"></a>

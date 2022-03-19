@@ -1,6 +1,8 @@
-<img width="100%" height="auto" src="https://github.com/azZ-69/azZ-69/blob/master/0b5cc024841accd9a31a7b2daeb0e57b.gif height="175px"/></a>
+<p align="center">
+<img width="600" src="0b5cc024841accd9a31a7b2daeb0e57b.gif" alt="gif">
+</p>
 
-<h1 align="center">Sup <img src="transparent-anime-gif-4.gif" width="30px">, I'm Aswin</h1>
+<h1 align="center">Sup <img width="50" src="transparent-anime-gif-4.gif" width="30px">, I'm Aswin</h1>
 <h3 align="center"><strong>I'm a novice programmer from Nepal.</strong></h3>
 
 

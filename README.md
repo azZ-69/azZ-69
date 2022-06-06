@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Sup <img width="50" src="transparent-anime-gif-4.gif" width="30px">, I'm Aswin</h1>
-<h3 align="center"><strong>I'm सुरुवाती प्रोग्रामर.</strong></h3>
+<h3 align="center"><strong> सुरुवाती प्रोग्रामर.</strong></h3>
 
 
 ## 🙋‍♂️ About Me

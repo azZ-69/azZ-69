@@ -56,7 +56,7 @@
 
 ## Connect with me:
 <p align="left">
-<a href = "https://www.linkedin.com/in/aswin-siwakoti-b5a86b220/"><img src="C:\Users\ASUS\Downloads\icons8-linkedin-48.png"/></a>
+<a href = "https://www.linkedin.com/in/aswin-siwakoti-b5a86b220/"><img src="https://icons8.com/icon/13930/linkedin"/></a>
 <a href = "https://www.instagram.com/aswin_2089/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
